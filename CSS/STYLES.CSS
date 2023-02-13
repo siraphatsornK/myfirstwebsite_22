@@ -1,0 +1,26 @@
+body{
+    
+background-color:#D7C0AE;
+
+}
+
+P{
+    color:#181818;
+}
+
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-color:darkblue;
+    border-width: 5px;
+    width: 50%;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color:#181818;
+    font-style: italic;
+}
